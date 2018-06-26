@@ -32,7 +32,7 @@ theta = gradientDescent(X, y, theta, alpha, iterations);
 fprintf("Theta found by gradient descent\n")
 fprintf("%f\n",theta);
 
-%Predicting values for population sizes 80000
+%Predicting values for population size 80000
 
 predict = [1 , 8] * theta;
 fprintf("\nFor City with Population 80,000\n Predicted Price for House =$%f",predict*10000);
