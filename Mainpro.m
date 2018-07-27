@@ -37,6 +37,14 @@ fprintf("%f\n",theta);
 predict = [1 , 8] * theta;
 fprintf("\nFor City with Population 80,000\n Predicted Price for House =$%f",predict*10000);
 
+fprintf("Program Paused.Press enter to continue\n");
+
+%Plot the linear fit
+
+hold on;
+plot(X(:,2),X*theta,'-');
+legend('Training Data','Linear Regression');
+hold off;
 
 
 
