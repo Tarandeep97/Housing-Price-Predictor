@@ -1,5 +1,6 @@
-# Housing Price Prediction
-Housing Price Prediction (Single Feature) using Linear Regression
+# Housing Price Predictor
+This project focuses on development of Housing Price Predictor using Linear Regression algorithm. The implementation of this project is done on Matlab, using Octave GNU 4.4.0. 
+
 
 ### Visualization of Data
 
