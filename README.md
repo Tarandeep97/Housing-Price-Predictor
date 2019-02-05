@@ -1,4 +1,6 @@
 # Housing Price Predictor
+Housing Price Prediction using Linear Regression
+
 This project focuses on development of Housing Price Predictor using Linear Regression algorithm. The implementation of this project is done on Matlab, using Octave GNU 4.4.0. 
 
 
